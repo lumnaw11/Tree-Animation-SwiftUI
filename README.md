@@ -3,7 +3,7 @@ Simple Christmass tree animation made with SwiftUI
 </br>SwiftUI クリスマスツリー アニメーション
 
 Just a small project I did during winter break.
-</br>冬休み中SwiftUIでやったクリスマスツリーのアニメーションです。
+</br>冬休み中SwiftUIで作ったクリスマスツリーのアニメーションです。
 
 <p>Environment: iOS 16.0+</p>
 
